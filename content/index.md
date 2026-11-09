@@ -1,6 +1,8 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Video Games (by Genre)
 ---
+My chosen topic is a knowledgebase of various video games, sorted by their genre.
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
