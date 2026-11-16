@@ -3,6 +3,15 @@ title: Video Games (by Genre)
 ---
 My chosen topic is a knowledgebase of various video games, sorted by their genre.
 
+## Main Categories
+- [[action-adventure/index|Action-Adventure]]
+- [[first-person shooter/index|First-Person Shooter]]
+- [[horror/index|Horror]]
+- [[puzzle/index|Puzzle]]
+- [[rhythm/index|Rhythm]]
+- [[role-playing game/index|Role-Playing Game]]
+
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
